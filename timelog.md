@@ -14,6 +14,9 @@
 
 ## Week 1
 
+## Week 4
+* Created Gitlab repository
+
 ### 19 Oct 2019
 
 * *4 hours* Read the project guidance notes
